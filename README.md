@@ -10,18 +10,17 @@
 链接：https://afdian.net/a/lifragenxy
 
 - Willing to learn more about my projects?
-- Would like to follow the projects immediately after updating?
-- Looking for convenience as well as reliable way to pay within our collaboration?
+- Would like to follow the projects immediately after updates?
+- Looking for convenience as well as reliable ways to pay within our collaboration?
 
 Come and follow me at AFDIAN!
 Link: https://afdian.net/a/lifragenxy
 
 ---
-Github Default Items
 
 - 👋 Hi, I’m @Lifragenxy
 - 👀 I’m interested in software coding by python.
-- 🌱 I’m currently learning python GUI and web developing.
+- 🌱 I’m currently learning python, C++, development with Qt.
 - 💞️ I’m looking to collaborate on editors.
 - 📫 Please contact me by email: cyancywewe@outlook.com.
 
